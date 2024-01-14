@@ -1,0 +1,1 @@
+created the application for grocery management services how to do all the works in the application from starting registration to ordering all the application inside the application all the things done over there.
